@@ -20,8 +20,8 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      // home: const PhoneNumberScreen(),
-      home: const MessageScreen(),
+      home: const PhoneNumberScreen(),
+      // home: const MessageScreen(),
     );
   }
 }
